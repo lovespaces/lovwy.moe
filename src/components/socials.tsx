@@ -10,7 +10,7 @@ function Socials() {
                     <p><a href="https://github.com/lovespaces" target="_blank" className="underline font-bold">GitHub</a></p>
                     <p><a href="https://last.fm/user/lovespaces" target="_blank" className="underline font-bold">last.fm</a></p>
                 </div>
-                <img src={sleeping} alt="socials_sleeping" className="object-contain pointer-events-none select-none" />
+                <img src={sleeping} alt="socials_sleeping" className="hidden md:inline object-contain pointer-events-none select-none touch-none" />
             </div>
         </>
     );
