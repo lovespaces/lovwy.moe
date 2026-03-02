@@ -6,7 +6,7 @@ import Socials from "./components/socials";
 function Page() {
     return (
         <>
-            <div className="min-h-svh w-full bg-gray-900 grid grid-cols-4 p-2 pb-0">
+            <div className="text-white min-h-svh w-full bg-gray-900 grid grid-cols-4 p-4 pb-0">
                 <Name />
                 <AboutMe />
                 <Socials />
