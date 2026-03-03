@@ -5,6 +5,6 @@
     --font-ubuntu: "Ubuntu Mono", sans-serti;
 }
 
-html, body {
-  background: black; /* グラデの終端色に合わせる */
+body {
+  background: black;
 }
