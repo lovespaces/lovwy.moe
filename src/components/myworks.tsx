@@ -1,5 +1,5 @@
 import surprising from "../assets/surprising.png";
-import maid from "../assets/maid.png";
+
 
 function MyWorks() {
     return (
@@ -8,7 +8,6 @@ function MyWorks() {
                 <p>my works</p>
                 <p className="opacity-50 select-none">nothing :D</p>
                 <img src={surprising} alt="myworks_surprising" className="hidden md:inline object-contain pointer-events-none select-none touch-none" />
-                <img src={maid} alt="mobile_maid" className="md:hidden object-contain pointer-events-none select-none touch-none" />
             </div>
         </>
     );
