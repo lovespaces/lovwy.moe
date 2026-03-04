@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@100..700&display=swap');
 @import "tailwindcss";
 
 @theme {
-    --font-ubuntu: "Ubuntu Mono", sans-serti;
+    --font-ubuntu: "Ubuntu Mono", sans-serif;
+    --font-mp1: "M PLUS 1 Code", sans-serif
 }
 
 body {
-  background: #1f2937;
+  background: #090c10;
 }

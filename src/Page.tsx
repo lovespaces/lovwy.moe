@@ -7,7 +7,7 @@ import Skills from "./components/skills";
 function Page() {
     return (
         <>
-            <div className="overscroll-none text-white font-ubuntu min-h-dvh w-full grid grid-cols-2 md:grid-cols-4 p-4 pb-0 gap-2">
+            <div className="overscroll-none text-white font-ubuntu md:text-xl min-h-dvh w-full grid grid-cols-2 md:grid-cols-4 p-4 pb-0 gap-2">
                 <Name />
                 <Skills />
                 <Socials />

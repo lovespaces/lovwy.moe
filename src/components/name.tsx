@@ -17,7 +17,7 @@ function Name() {
     return (
         <>
             <div className="flex flex-col justify-between h-[30lvh] md:h-full">
-                <p>lovespaces</p>
+                <p className="text-base">lovespaces</p>
                 <div className="flex-1 flex flex-col justify-center">
                     <p className="mt-4">2008/09/06 ({myAge} y/o)</p>
                     <p>Japanese & Filipino</p>
