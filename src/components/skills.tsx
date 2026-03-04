@@ -4,7 +4,7 @@ function Skills() {
     return (
         <>
             <div className="flex flex-col justify-between h-[30lvh] md:h-full">
-                <p>skills</p>
+                <p className="underline">skills</p>
                 <div className="flex-1 flex flex-col justify-center">
                     <p>React, Tailwind, Hono</p>
                     <p>JS/TS, Python, Swift</p>

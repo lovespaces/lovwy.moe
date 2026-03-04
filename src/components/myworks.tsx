@@ -5,7 +5,7 @@ function MyWorks() {
     return (
         <>
             <div className="flex flex-col justify-between h-[30lvh] md:h-full">
-                <p>my works</p>
+                <p className="underline">my works</p>
                 <div className="flex-1 flex flex-col justify-center">
                     <p className="opacity-50 select-none">nothing :D</p>
                 </div>
